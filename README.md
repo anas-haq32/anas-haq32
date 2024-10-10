@@ -1,15 +1,14 @@
 ### Hi there, I'm Anas Haq 👋
 
-## Learner||Programmer||Developer
+## Learner | Programmer | Developer
 
 - 🥅 2025 Goals: To solve 1000+ problems and participate ICPC Dhaka Regional.
 - 🥅 2026 Goals: To become a Backend Engineer.
 
 
 #### 📈 Competitive Programming
-
 ![](https://raw.githubusercontent.com/anas-haq32/oooooo/main/output/light_card.svg#gh-dark-mode-only)
-
+![](https://raw.githubusercontent.com/anas-haq32/oooooo/main/output/light_card.svg)
 
 <!-- <b>&#128200; Competitive Programming</b>
 <br />
