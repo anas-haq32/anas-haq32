@@ -7,15 +7,27 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=anas-haq32&base=0)
 #### 📈 Competitive Programming
 
-![](https://raw.githubusercontent.com/emamhasan1804/demo/main/output/max_rating.svg)
+<!-- ![](https://raw.githubusercontent.com/emamhasan1804/demo/main/output/max_rating.svg)
 
 ![](https://raw.githubusercontent.com/anas_pro/demo/main/output/light_card.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/anas_pro/demo/main/output/light_card.svg)
 [![](https://atcoder-stats-git-main-akmhmgc.vercel.app/api?username=crazyha)](https://github.com/akmhmgc/atcoder-stats)
+ -->
 
+<a href="https://codeforces.com/profile/rahat_khan_pathan">
+   <img src="https://raw.githubusercontent.com/rahat-khan-pathan/ct-stats/main/output/max_rating.svg" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=rahat-khan-pathan&label=Profile%20views&color=0e75b6&style=flat" alt="Rahat Khan Pathan" />
+
+<b>&#128200; Competitive Programming</b>
+<br />
+<p float="left">
+    <img height="230px" src="https://raw.githubusercontent.com/rahat-khan-pathan/ct-stats/main/output/light_card.svg" alt="Statistics"/>
+</p>
+<br/>
+<br/>
 
 
 
