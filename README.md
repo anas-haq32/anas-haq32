@@ -1,29 +1,34 @@
-#### Hello there 👋, I'm Anas Haq
+#### Hello there 👋, I'm Md. Emam Hasan
 
 ## I am a Competitive Programmer!!
 
-- 🥅 2024 Goals: To become Codeforces specialist, 4* coder on Codechef, and solve 500+ problems on Codeforces
-- 🥅 2025 Goals: To become Codeforces expert and solve 250+ problems on Codeforces
+- 🥅 2024 Goals: To become codeforces specialist, 4* coder on codechef and solve 500+ problems on codeforces
+- 🥅 2025 Goals: To become codeforces expert and solve 250+ problems on codeforces
 
-#### Contact me:
-<a href="https://www.facebook.com/mdemamhasan.himu" target="blank_"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" width="30" height="30"/></a>
-<a href="https://www.linkedin.com/in/md-emam-hasan-4039342b2/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30" height="30"/></a>
 
-![](https://komarev.com/ghpvc/?username=anas-haq&base=0)
+
+![](https://komarev.com/ghpvc/?username=anas-haq32&base=0)
 #### 📈 Competitive Programming
 
 ![](https://raw.githubusercontent.com/emamhasan1804/demo/main/output/max_rating.svg)
 
-![](https://raw.githubusercontent.com/emamhasan1804/demo/main/output/light_card.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/emamhasan1804/demo/main/output/light_card.svg)
-[![](https://atcoder-stats-git-main-akmhmgc.vercel.app/api?username=anas_pro)](https://github.com/akmhmgc/atcoder-stats)
+![](https://raw.githubusercontent.com/anas_pro/demo/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/anas_pro/demo/main/output/light_card.svg)
+[![](https://atcoder-stats-git-main-akmhmgc.vercel.app/api?username=crazyha)](https://github.com/akmhmgc/atcoder-stats)
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/anas_haq?theme=light)
+
+
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/anas_haq?theme=dark)
+
+
 
 ##### Languages 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="30"/></a>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="30"/></a>
 <img src="src/java.png" width="35"/></a>
+
+
 
 ##### Development
 
@@ -35,4 +40,4 @@
 <img src="src/pngwing.com.png" width="30"/></a>
 <img src="src/mysql_workbench_macos_bigsur_icon_189924.png" width="30"/></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anas-haq)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anas-haq32)](https://github.com/anuraghazra/github-readme-stats)
