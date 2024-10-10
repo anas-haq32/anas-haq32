@@ -42,9 +42,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anas-haq32)](https://github.com/anuraghazra/github-readme-stats)
 
+<div align="center">
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anas-haq32)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anas-haq32&show_icons=true&count_private=true&theme=dark" alt="anas-haq32" />
 
 
 
-<p align="center"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anas-haq32)](https://github.com/anuraghazra/github-readme-stats)
