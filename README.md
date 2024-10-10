@@ -7,20 +7,16 @@
 
 
 #### 📈 Competitive Programming
-<!-- 
-![](https://raw.githubusercontent.com/your-github-username/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/your-github-username/cf-stats/main/output/light_card.svg)
+![](https://raw.githubusercontent.com/anas-haq32/oooooo/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/anas-haq32/oooooo/main/output/light_card.svg)
 
-![](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/max_rating.svg)
-![](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg) -->
-
-<b>&#128200; Competitive Programming</b>
+<!-- <b>&#128200; Competitive Programming</b>
 <br />
 <p float="left">
     <img height="230px" src="https://raw.githubusercontent.com/anas-haq32/ct-stats/main/output/light_card.svg" alt="Statistics"/>
 </p>
 <br/>
-<br/>
+<br/> -->
 
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/anas_haq?theme=dark)
