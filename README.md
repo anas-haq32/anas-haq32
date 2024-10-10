@@ -1,10 +1,11 @@
-#### Hello there 👋, I'm Md. Emam Hasan
+#### Hi there, I'm Anas Haq 👋
+
+## Learner||Programmer||Developer
 
 ## I am a Competitive Programmer!!
 
-- 🥅 2024 Goals: To become codeforces specialist, 4* coder on codechef and solve 500+ problems on codeforces
-- 🥅 2025 Goals: To become codeforces expert and solve 250+ problems on codeforces
-
+- 🥅 2025 Goals: To solve 1000+ problems and participate ICPC Dhaka Regional.
+- 🥅 2026 Goals: To become a Backend Engineer.
 
 
 #### 📈 Competitive Programming
@@ -16,14 +17,16 @@
 [![](https://atcoder-stats-git-main-akmhmgc.vercel.app/api?username=crazyha)](https://github.com/akmhmgc/atcoder-stats)
  -->
 
-<br />
+<!-- <br />
 <p float="left">
     <img height="230px" src="https://raw.githubusercontent.com/rahat-khan-pathan/ct-stats/main/output/light_card.svg" alt="Statistics"/>
 </p>
 <br/>
-<br/>
+<br/> -->
 
-[![Codeforces Profile](https://codeforces-stats-api.herokuapp.com/anas_pro)](https://codeforces.com/profile/anas_pro)
+![](https://raw.githubusercontent.com/your-github-anas-haq32/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/your-github-username/cf-stats/main/output/light_card.svg)
+
 
 <!-- <a href="https://codeforces.com/profile/anas_pro">
    <img src="https://raw.githubusercontent.com/anas_pro/ct-stats/main/output/max_rating.svg" />
