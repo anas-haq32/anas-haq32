@@ -12,9 +12,10 @@
 
 ![](https://raw.githubusercontent.com/emamhasan1804/demo/main/output/max_rating.svg)
 
-![](https://raw.githubusercontent.com/emamhasan1804/demo/main/output/light_card.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/emamhasan1804/demo/main/output/light_card.svg)
+![](https://raw.githubusercontent.com/anas_pro/demo/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/anas_pro/demo/main/output/light_card.svg)
 [![](https://atcoder-stats-git-main-akmhmgc.vercel.app/api?username=crazyha)](https://github.com/akmhmgc/atcoder-stats)
+
 
 
 
@@ -40,3 +41,6 @@
 <img src="src/mysql_workbench_macos_bigsur_icon_189924.png" width="30"/></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anas-haq32)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anas-haq32&show_icons=true&count_private=true&theme=dark" alt="anas-haq32" />
