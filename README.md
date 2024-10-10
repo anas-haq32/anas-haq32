@@ -8,11 +8,9 @@
 
 #### 📈 Competitive Programming
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/anas-haq32/oooooo/main/output/max_rating.svg" alt="Max Rating" />
-</p>
 
-<!-- ![](https://raw.githubusercontent.com/anas-haq32/oooooo/main/output/max_rating.svg) -->
+
+![](https://raw.githubusercontent.com/anas-haq32/oooooo/main/output/max_rating.svg)
 <!-- ![](https://raw.githubusercontent.com/anas-haq32/oooooo/main/output/rating.svg) -->
 
 
