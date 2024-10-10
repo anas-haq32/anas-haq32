@@ -7,7 +7,6 @@
 
 
 #### 📈 Competitive Programming
-![](https://raw.githubusercontent.com/anas-haq32/oooooo/main/output/light_card.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/anas-haq32/oooooo/main/output/light_card.svg)
 
 <!-- <b>&#128200; Competitive Programming</b>
