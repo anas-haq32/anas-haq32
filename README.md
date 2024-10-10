@@ -9,6 +9,36 @@
 
 #### 📈 Competitive Programming
 
+<!-- ![](https://raw.githubusercontent.com/emamhasan1804/demo/main/output/max_rating.svg)
+
+![](https://raw.githubusercontent.com/anas_pro/demo/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/anas_pro/demo/main/output/light_card.svg)
+[![](https://atcoder-stats-git-main-akmhmgc.vercel.app/api?username=crazyha)](https://github.com/akmhmgc/atcoder-stats)
+ -->
+
+<br />
+<p float="left">
+    <img height="230px" src="https://raw.githubusercontent.com/rahat-khan-pathan/ct-stats/main/output/light_card.svg" alt="Statistics"/>
+</p>
+<br/>
+<br/>
+
+[![Codeforces Profile](https://codeforces-stats-api.herokuapp.com/anas_pro)](https://codeforces.com/profile/anas_pro)
+
+<!-- <a href="https://codeforces.com/profile/anas_pro">
+   <img src="https://raw.githubusercontent.com/anas_pro/ct-stats/main/output/max_rating.svg" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=anas_pro&label=Profile%20views&color=0e75b6&style=flat" alt="Rahat Khan Pathan" /> -->
+
+<!-- <b>&#128200; Competitive Programming</b> -->
+<br />
+<p float="left">
+    <img height="230px" src="https://raw.githubusercontent.com/anas_pro/ct-stats/main/output/light_card.svg" alt="Statistics"/>
+</p>
+<br/>
+<br/>
+
+
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/anas_haq?theme=dark)
 
@@ -20,18 +50,27 @@
 <img src="src/java.png" width="35"/></a>
 
 
+
+##### Development
+
+<img src="src/pngegg.png" width="30" /></a>
+
 ##### Editor & IDE
 <img src="src/vs.png" width="30"/></a>
+<img src="src/android-studio-icon.png" width="30"/></a>
+<img src="src/pngwing.com.png" width="30"/></a>
 <img src="src/mysql_workbench_macos_bigsur_icon_189924.png" width="30"/></a>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anas-haq32)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ##### :zap: GitHub Stats
-
+<div align="center">
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anas-haq32)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=anas-haq32&show_icons=true&count_private=true&theme=dark" alt="anas-haq32" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anas-haq32&show_icons=true&count_private=true&theme=dark" alt="anas-haq32" />
 
 
 
