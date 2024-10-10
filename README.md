@@ -12,10 +12,9 @@
 
 ![](https://raw.githubusercontent.com/emamhasan1804/demo/main/output/max_rating.svg)
 
-![](https://raw.githubusercontent.com/anas_pro/demo/main/output/light_card.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/anas_pro/demo/main/output/light_card.svg)
+![](https://raw.githubusercontent.com/emamhasan1804/demo/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/emamhasan1804/demo/main/output/light_card.svg)
 [![](https://atcoder-stats-git-main-akmhmgc.vercel.app/api?username=crazyha)](https://github.com/akmhmgc/atcoder-stats)
-
 
 
 
