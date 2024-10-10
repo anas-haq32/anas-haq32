@@ -9,7 +9,8 @@
 #### 📈 Competitive Programming
 
 
-
+![](https://raw.githubusercontent.com/anas-haq32/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/anas-haq32/cf-stats/main/output/light_card.svg)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/anas_haq?theme=dark)
 
 
