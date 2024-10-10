@@ -1,6 +1,6 @@
 ### Hi there, I'm Anas Haq 👋
 
-## Learner | Programmer | Developer
+## Learner||Programmer||Developer
 
 - 🥅 2025 Goals: To solve 1000+ problems and participate ICPC Dhaka Regional.
 - 🥅 2026 Goals: To become a Backend Engineer.
@@ -30,5 +30,6 @@
 ##### :zap: GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=anas-haq32&show_icons=true&count_private=true&theme=dark" alt="anas-haq32" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anas-haq32)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anas-haq32)](https://github.com/anuraghazra/github-readme-stats) -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anas-haq32&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
