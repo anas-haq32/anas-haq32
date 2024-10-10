@@ -1,8 +1,6 @@
-#### Hi there, I'm Anas Haq 👋
+### Hi there, I'm Anas Haq 👋
 
 ## Learner||Programmer||Developer
-
-## I am a Competitive Programmer!!
 
 - 🥅 2025 Goals: To solve 1000+ problems and participate ICPC Dhaka Regional.
 - 🥅 2026 Goals: To become a Backend Engineer.
